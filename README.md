@@ -8,9 +8,8 @@
     </head>
     <body>
     <strong>Privacy Policy</strong> <p>
-                  Mohammed Thashreef built the NITC Mech Hub app as
-                  a Free app. This SERVICE is provided by
-                  Mohammed Thashreef at no cost and is intended for use as
+                 This app is  built as
+                  a Free app. This SERVICE is provided  at no cost and is intended for use as
                   is.
                 </p> <p>
                   This page is used to inform visitors regarding my
