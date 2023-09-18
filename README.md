@@ -33,7 +33,13 @@
                 </p> <div><p>
                     The app does use third-party services that may collect
                     information used to identify you.
-                  </p> <p>
+                  </p> <p><p>
+    Our app uses Facebook Audience Network to display advertisements. Facebook Audience Network is a service provided by Facebook, Inc. that allows us to show personalized and relevant ads to our users. To deliver these ads, Facebook may collect and use certain information as described in their <a href="https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy/" target="_blank" rel="noopener noreferrer">Audience Network Policy</a>.
+</p>
+<p>
+    Please note that the collection and use of data by Facebook Audience Network are subject to Facebook's own privacy policies and practices. We encourage you to review Facebook's privacy policy and the Audience Network Policy for more information about how your data is handled when you interact with ads displayed through this service.
+</p>
+
                   <p><strong>Facebook Audience Network</strong></p>
 
                     Link to the privacy policy of third-party service providers used
