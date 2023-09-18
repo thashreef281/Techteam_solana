@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
     <html>
     <head>
       <meta charset='utf-8'>
@@ -34,6 +34,8 @@
                     The app does use third-party services that may collect
                     information used to identify you.
                   </p> <p>
+                  <p><strong>Facebook Audience Network</strong></p>
+
                     Link to the privacy policy of third-party service providers used
                     by the app
                   </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">Google Play Services</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> <p><strong>Log Data</strong></p> <p>
